@@ -7,7 +7,7 @@
     >
       <v-img
         class="pa-4 pt-7"
-        src="rs  .jpg"
+        src="rs.jpg"
         height="170"
         
       >
@@ -69,6 +69,7 @@
         </v-row>
         <v-row>
           <v-toolbar-title class="text-h4 ml-4">
+          
             {{ $store.state.appTitle }}
           </v-toolbar-title>
         </v-row>
