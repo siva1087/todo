@@ -7,7 +7,7 @@
     >
       <v-img
         class="pa-4 pt-7"
-        src="rs.jpg"
+        src="rs  .jpg"
         height="170"
         
       >
